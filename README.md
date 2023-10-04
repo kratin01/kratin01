@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kratinaggarwal870@gmail.com**
 
-- - ⚡ Fun fact **I definitely Have Clinomania**
+- ⚡ Fun fact **I definitely Have Clinomania**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
