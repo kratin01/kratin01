@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/kratin_16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kratin_16" height="30" width="40" /></a>
 </p>
 
-![An image of @kratin01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kratin01)(https://holopin.io/@kratin01)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -61,3 +61,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kratin01&show_icons=true&locale=en&layout=compact" alt="kratin01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kratin01&" alt="kratin01" /></p>
+
+![An image of @kratin01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kratin01)
