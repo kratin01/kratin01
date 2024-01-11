@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/kratin01/kratin01/blob/main/windy.gif" alt="Logo">
 </p>
@@ -7,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratin01&label=Profile%20views&color=0e75b6&style=flat" alt="kratin01" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **kratinaggarwal870@gmail.com**
 
