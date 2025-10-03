@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratin01&label=Profile%20views&color=0e75b6&style=flat" alt="kratin01" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **kratinaggarwal870@gmail.com**
 
