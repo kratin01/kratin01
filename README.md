@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 📫 How to reach me **kratinaggarwal870@gmail.com**
+- 📫 How to reach me **kratin.work@gmail.com**
 
 - ⚡ Fun fact **I Definitely Have Clinomania**
 
